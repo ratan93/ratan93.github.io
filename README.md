@@ -17,11 +17,7 @@ GitHub Pages
 3. Under build/deployment, select Deploy from a branch.
 4. Choose the main branch and / (root), then save.
 5. Wait for the deployment and open the Pages URL shown in Settings.
-Vercel
-1. Import the repository into Vercel.
-2. Select the static site/framework preset or Other.
-3. Leave build command and output directory empty if prompted (the root index.html is the site entry point).
-4. Deploy.
+   
 Customize before publishing
 Review index.html and update any details that need more precision, especially:
 - Experience dates and role titles.
